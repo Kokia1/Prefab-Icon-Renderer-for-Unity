@@ -1,6 +1,7 @@
 📦 Prefab Icon Renderer for Unity
 A lightweight Unity Editor tool to render clean prefab icons into PNG sprites – perfect for inventory systems, UI, or just getting rid of ugly default thumbnails.
 
+
 ✨ Features
 ✅ Live preview of your icon with all adjustments
 
@@ -22,6 +23,8 @@ A lightweight Unity Editor tool to render clean prefab icons into PNG sprites �
 
 ✅ All inside a scrollable, user-friendly editor window
 
+
+
 📂 Installation
 Option 1: UnityPackage
 
@@ -42,6 +45,8 @@ Assets/Editor/PrefabIconRenderer.cs
 
 Open Unity and navigate to:
 Tools → Render Prefab Icon
+
+
 
 📤 How to Use
 Open the window via Tools → Render Prefab Icon
@@ -82,6 +87,8 @@ UI previews of equipment or gear
 
 Stylized icon views for object libraries
 
+
+
 💡 Roadmap (maybe 😄)
 🔲 Batch icon rendering
 
@@ -91,8 +98,12 @@ Stylized icon views for object libraries
 
 🔲 Drag & drop prefab support
 
+
+
 ❤️ Credits & License
+
 Made by Lokbit.
+
 MIT License
 
 Feel free to contribute or fork!
