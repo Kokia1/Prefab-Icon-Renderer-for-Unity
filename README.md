@@ -75,6 +75,17 @@ Start rendering!
 
 Made with by **Lokbit**
 
+---
+
+## ☕ Support
+
+If you found this tool useful, you can support me with a coffee:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%EF%B8%8F-yellow?style=flat-square)](https://www.buymeacoffee.com/lokbit)
+
+Thanks for keeping me caffeinated! 🙌
+
+
 Licensed under the [MIT License](LICENSE)
 
 Feel free to contribute, fork or use it in your own games/projects!
