@@ -3,8 +3,7 @@
 A lightweight Unity Editor tool to render clean prefab icons into PNG sprites
 
 ---
-
-![grafik](https://github.com/user-attachments/assets/eb1cd705-53d3-436d-b314-8c5e9bd35019)
+- **Showcase**  https://github.com/user-attachments/assets/9db85170-cc91-46dd-9bdf-0df15d85834d
 
 
 ## ✨ Features
