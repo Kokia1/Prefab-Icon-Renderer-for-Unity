@@ -58,14 +58,6 @@ A lightweight Unity Editor tool to render clean prefab icons into PNG sprites
 
 ---
 
-## 📎 Example Use Cases
-
-- RPG-style **item icons**
-- **Inventory slots** or skill previews
-- UI representations of game objects
-- Stylized thumbnails for object libraries
-
----
 
 ## 💡 Roadmap / Ideas
 
