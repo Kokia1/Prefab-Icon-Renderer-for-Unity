@@ -75,6 +75,9 @@ Start rendering!
 
 Made with by **Lokbit**
 
+Licensed under the [MIT License](LICENSE)
+
+Feel free to contribute, fork or use it in your own games/projects!
 ---
 
 ## ☕ Support
@@ -86,6 +89,3 @@ If you found this tool useful, you can support me with a coffee:
 Thanks for keeping me caffeinated! 🙌
 
 
-Licensed under the [MIT License](LICENSE)
-
-Feel free to contribute, fork or use it in your own games/projects!
