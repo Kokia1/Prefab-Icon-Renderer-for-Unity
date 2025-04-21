@@ -1,1 +1,0 @@
-// PrefabIconRenderer.cs (Placeholder) – bitte durch echten Code ersetzen.
