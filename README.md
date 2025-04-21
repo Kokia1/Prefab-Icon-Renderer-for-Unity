@@ -73,7 +73,7 @@ Start rendering!
 
 ## ❤️ Credits & License
 
-Made with by **Lokbit**
+Made by **Lokbit**
 
 Licensed under the [MIT License](LICENSE)
 
