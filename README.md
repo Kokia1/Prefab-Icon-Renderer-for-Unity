@@ -19,18 +19,18 @@ A lightweight Unity Editor tool to render clean prefab icons into PNG sprites
 
 ---
 
-## 📂 Installation
+📂 Installation
+Just clone or copy the tool into your Unity project – no setup required.
 
-### Option 1: UnityPackage  
-1. Download the latest `.unitypackage` from [this link](#)  
-2. In Unity: `Assets → Import Package → Custom Package...`  
-3. Import the file  
-4. Done ✅
+✅ Quick Install
+Open your Unity project
 
-### Option 2: Manual Copy  
-1. Download `PrefabIconRenderer.cs`  
-2. Place it under: `Assets/Editor/PrefabIconRenderer.cs`  
-3. Open Unity → `Tools → Render Prefab Icon`
+Copy the folder Assets/Editor/PrefabIconRenderer.cs from this repository into your project
+
+In Unity, go to:
+Tools → Render Prefab Icon
+
+Start rendering! 
 
 ---
 
